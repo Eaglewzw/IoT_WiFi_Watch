@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=R11 NewDesignator=R9
-Change Component Designator: OldDesignator=R12 NewDesignator=R10
-Change Component Designator: OldDesignator=R13 NewDesignator=R11
-Change Component Designator: OldDesignator=R14 NewDesignator=R12
-Change Component Designator: OldDesignator=R15 NewDesignator=R13
-Change Component Designator: OldDesignator=R16 NewDesignator=R14
-Change Component Designator: OldDesignator=R17 NewDesignator=R15
-Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR9_2
-Added Room: Name=LOT_Watch
